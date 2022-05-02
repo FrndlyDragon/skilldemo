@@ -6,6 +6,6 @@ import org.junit.*;
 public class SkillDemoTester {
     @Test
     public void helloTest(){
-        assertEquals("Hello", SkillDemo.hello());
+        assertEquals("hello", SkillDemo.hello());
     }
 }
